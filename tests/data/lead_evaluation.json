@@ -1,0 +1,52 @@
+[
+  {
+    "id": "LQ001",
+    "enquiry": "We need an AI chatbot integrated with our CRM. Budget is Rs 3 lakh and delivery is required within 4 weeks.",
+    "name": "Amit Sharma",
+    "email": "amit@example.com",
+    "company": "HealthTech Solutions",
+    "expected_priority": "High",
+    "expected_service": "AI Automation",
+    "expected_intent": "high"
+  },
+  {
+    "id": "LQ002",
+    "enquiry": "We are exploring website development options for our new startup. Please share your services.",
+    "name": "Priya Das",
+    "email": "priya@example.com",
+    "company": "Startup Labs",
+    "expected_priority": "Low",
+    "expected_service": "Software Development",
+    "expected_intent": "medium"
+  },
+  {
+    "id": "LQ003",
+    "enquiry": "We need SEO and digital marketing support. Our budget is Rs 80000 and we want to start next month.",
+    "name": "Rahul Sen",
+    "email": "rahul@example.com",
+    "company": "Growth Hub",
+    "expected_priority": "Medium",
+    "expected_service": "Digital Marketing",
+    "expected_intent": "medium"
+  },
+  {
+    "id": "LQ004",
+    "enquiry": "Can you build a voice AI agent for customer support? We have an approved budget of Rs 5 lakh and need deployment in 3 weeks.",
+    "name": "Neha Roy",
+    "email": "neha@example.com",
+    "company": "ConnectPro",
+    "expected_priority": "High",
+    "expected_service": "Voice AI",
+    "expected_intent": "high"
+  },
+  {
+    "id": "LQ005",
+    "enquiry": "I would like to know more about your coding assessment and AI mentoring services.",
+    "name": "Rohan Das",
+    "email": "rohan@example.com",
+    "company": "Individual",
+    "expected_priority": "Low",
+    "expected_service": "Cynbit Studio",
+    "expected_intent": "medium"
+  }
+]
