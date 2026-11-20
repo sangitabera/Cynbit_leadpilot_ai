@@ -1,0 +1,4 @@
+.env
+venv/
+leadpilot.db
+.pytest_cache
