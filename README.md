@@ -536,11 +536,6 @@ Interested in:
 - LangGraph and RAG
 - Python and FastAPI
 - Open-Source Contributions
-
-## 📄 License
-
-Choose and add an appropriate open-source license before publishing this repository. Do not assume the project is licensed for unrestricted reuse until a license file is included.
-
 ---
 
 <p align="center">
