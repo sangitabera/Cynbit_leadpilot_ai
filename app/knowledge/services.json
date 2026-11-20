@@ -1,0 +1,114 @@
+
+[
+  {
+    "id": "cynbit_studio",
+    "name": "Cynbit Studio",
+    "category": "Education and Developer Assessment",
+    "description": "Placement assessment, coding missions, AI-powered code evaluation, and AI mentoring to help assess and improve developer skills.",
+    "capabilities": [
+      "Placement assessment",
+      "Coding missions",
+      "AI code evaluation",
+      "AI mentoring",
+      "Developer skill assessment"
+    ],
+    "ideal_for": [
+      "Educational institutions",
+      "Recruitment teams",
+      "Training providers",
+      "Companies evaluating developer skills"
+    ],
+    "keywords": [
+      "coding test",
+      "developer assessment",
+      "placement",
+      "technical hiring",
+      "programming evaluation",
+      "developer training"
+    ]
+  },
+  {
+    "id": "ai_automation_suite",
+    "name": "AI Automation Suite",
+    "category": "AI and Business Automation",
+    "description": "AI-powered autonomous agents, LLM-based workflow automation, voice agents, and SaaS integrations.",
+    "capabilities": [
+      "Autonomous AI agents",
+      "LLM workflow automation",
+      "Voice agents",
+      "SaaS integration",
+      "Business process automation"
+    ],
+    "ideal_for": [
+      "Businesses automating repetitive workflows",
+      "Customer support teams",
+      "Operations teams",
+      "Companies integrating multiple SaaS platforms"
+    ],
+    "keywords": [
+      "AI agent",
+      "automation",
+      "voice bot",
+      "LLM",
+      "workflow",
+      "customer support",
+      "SaaS integration"
+    ]
+  },
+  {
+    "id": "custom_it_services",
+    "name": "Custom IT Services",
+    "category": "Software and Cloud Engineering",
+    "description": "Custom software development, cloud infrastructure, and SaaS development services.",
+    "capabilities": [
+      "Custom software development",
+      "Cloud infrastructure",
+      "SaaS development",
+      "Backend engineering",
+      "Application development"
+    ],
+    "ideal_for": [
+      "Startups",
+      "Growing businesses",
+      "Companies modernizing legacy software",
+      "Businesses building digital products"
+    ],
+    "keywords": [
+      "software development",
+      "cloud",
+      "SaaS",
+      "backend",
+      "application",
+      "API development",
+      "custom platform"
+    ]
+  },
+  {
+    "id": "digital_marketing",
+    "name": "Digital Marketing",
+    "category": "Marketing and Growth",
+    "description": "Performance advertising, SEO, CRM automation, and marketing funnel optimization.",
+    "capabilities": [
+      "Performance advertising",
+      "Search engine optimization",
+      "CRM automation",
+      "Marketing funnel optimization",
+      "Campaign optimization"
+    ],
+    "ideal_for": [
+      "Businesses seeking customer acquisition",
+      "Marketing teams",
+      "E-commerce businesses",
+      "Companies improving lead generation"
+    ],
+    "keywords": [
+      "SEO",
+      "advertising",
+      "digital marketing",
+      "CRM",
+      "campaign",
+      "lead generation",
+      "marketing funnel"
+    ]
+  }
+]
