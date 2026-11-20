@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+streamlit
+pandas
+requests
+sqlalchemy
+pydantic
+python-dotenv
+groq
+langgraph
+langchain-groq
+scikit-learn
+pytest
+plotly
+httpx
