@@ -3,4 +3,4 @@ venv/
 leadpilot.db
 .pytest_cache
 __pycache__/
-.devcontainer
+.devcontainer/
