@@ -2,7 +2,7 @@
 import pandas as pd
 import streamlit as st
 
-from frontend.components.lifecycle import (
+from .lifecycle import (
     render_lifecycle_controls,
 )
 
