@@ -34,7 +34,11 @@ if str(root_dir) not in sys.path:
 # Configuration
 # -----------------------------------------------------------------------------
 
-API_URL = os.getenv("API_BASE_URL", "http://127.0.0.1:8000").rstrip("/")
+API_URL = st.secrets.get(
+    "BACKEND_URL",
+    os.getenv("BACKEND_URL", "http://127.0.0.1:8000")
+).rstrip("/")
+
 REQUEST_TIMEOUT = int(os.getenv("API_TIMEOUT", "20"))
 ANALYSIS_TIMEOUT = int(os.getenv("ANALYSIS_TIMEOUT", "90"))
 
