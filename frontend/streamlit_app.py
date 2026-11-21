@@ -16,13 +16,13 @@ import sys
 from pathlib import Path
 
 
-from frontend.components.analytics import render_analytics
-from frontend.components.lead_intelligence import render_lead_intelligence
-from frontend.components.pipeline import render_pipeline
-from frontend.components.executive_analytics import (
+from components.analytics import render_analytics
+from components.lead_intelligence import render_lead_intelligence
+from components.pipeline import render_pipeline
+from components.executive_analytics import (
     render_executive_analytics,
 )
-from frontend.components.evaluation_dashboard import (
+from components.evaluation_dashboard import (
     render_evaluation_dashboard,
 )
 
