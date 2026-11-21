@@ -12,6 +12,9 @@ from typing import Any
 import pandas as pd
 import requests
 import streamlit as st
+import sys
+from pathlib import Path
+
 
 from frontend.components.analytics import render_analytics
 from frontend.components.lead_intelligence import render_lead_intelligence
@@ -23,6 +26,10 @@ from frontend.components.evaluation_dashboard import (
     render_evaluation_dashboard,
 )
 
+
+root_dir = Path(__file__).resolve().parent.parent
+if str(root_dir) not in sys.path:
+    sys.path.insert(0, str(root_dir))
 # -----------------------------------------------------------------------------
 # Configuration
 # -----------------------------------------------------------------------------
